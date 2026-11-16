@@ -1,4 +1,13 @@
 # 🖐️ Hand Gesture Controlled Hardware System Using Computer Vision & Arduino
+> **Designed & Developed by Yash Site.**
+
+![Python](https://img.shields.io/badge/Python-3.14.4-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-1.2.3-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Arduino_Code-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PySerial](https://img.shields.io/badge/PySerial-Serial_Communication-3776AB?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
 
 An AI-driven Human-Computer Interaction (HCI) and Embedded Systems project that controls Arduino-connected actuators (LEDs, Buzzer, Servo Motor) in real time using webcam-based hand gesture recognition powered by **OpenCV** and **Google MediaPipe Tasks**.
 
